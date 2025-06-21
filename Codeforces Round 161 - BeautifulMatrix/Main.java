@@ -22,6 +22,5 @@ public class Main {
 
         int val = abs(i1 - 2) + abs(j1-2);
         System.out.println(val);
-
     }
 }
